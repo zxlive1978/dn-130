@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    <com_port>2</com_port>
+    <timeout>300</timeout>
+    <old_value>True</old_value>
+    <show_error>False</show_error>
+    <ip_server_code>127.0.0.1</ip_server_code>
+    <name_device>DN-130</name_device>
+    <id_device>107</id_device>
+</Settings>
